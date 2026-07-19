@@ -1,6 +1,6 @@
 # 🏠 Aura Home
 
-## Smart Home Automation using Arduino IoT Cloud
+## Aura Home Automation using Arduino IoT Cloud
 
 Aura Home is an IoT-based smart home automation project that allows users to control home appliances remotely through the Arduino IoT Cloud. The system uses a Wi-Fi-enabled microcontroller and a relay module to switch appliances ON and OFF in real time.
 
