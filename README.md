@@ -14,7 +14,7 @@ Aura Home is an IoT-based smart home automation project that allows users to con
 
 ## Hardware
 
-* Arduino IoT compatible board (ESP8266/ESP32)
+* Arduino IoT compatible board (ESP8266)
 * 4-Channel Relay Module
 * Wi-Fi Network
 * Power Supply
